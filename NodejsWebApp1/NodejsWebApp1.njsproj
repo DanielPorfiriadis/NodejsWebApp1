@@ -30,6 +30,9 @@
   </PropertyGroup>
   <ItemGroup>
     <Content Include="app.js" />
+    <Content Include="models\User.js">
+      <SubType>Code</SubType>
+    </Content>
     <Content Include="models\Registration.js">
       <SubType>Code</SubType>
     </Content>
